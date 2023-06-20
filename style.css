@@ -31,4 +31,10 @@ body{
     font-size: 24px;
     text-shadow: 2px 4px rgba(253, 195, 4, 0.5);
     color: rgb(221, 131, 21);
+    /*float: right;*/
 }
+.secao1{
+    padding: 20px;
+    font-size: 14pt;
+}
+
