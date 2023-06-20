@@ -12,6 +12,7 @@ body{
     padding: 15px;
     box-shadow: 2px 4px rgba(253, 195, 4, 0.5);
     background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 .cabecalho{
@@ -23,4 +24,11 @@ body{
     text-align: center;
     align-items: center;
     border-bottom: #ffffff solid;
+}
+.titulo{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 2px 4px rgba(253, 195, 4, 0.5);
+    color: rgb(221, 131, 21);
 }
